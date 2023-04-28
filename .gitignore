@@ -1,0 +1,7 @@
+/.metadata/
+Servers/
+*.classpath
+tetrPrj/.settings/
+*.project
+*.MF
+tetrPrj/src/main/webapp/WEB-INF/.gitignore
